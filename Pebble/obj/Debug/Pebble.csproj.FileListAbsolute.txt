@@ -1,0 +1,10 @@
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\bin\Debug\Pebble.exe.config
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\obj\Debug\Pebble.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\obj\Debug\Pebble.Form1.resources
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\obj\Debug\Pebble.Properties.Resources.resources
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\obj\Debug\Pebble.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\bin\Debug\Pebble.exe
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\bin\Debug\Pebble.pdb
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\obj\Debug\Pebble.exe
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\obj\Debug\Pebble.pdb
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\bin\Debug\frontend\index.html
