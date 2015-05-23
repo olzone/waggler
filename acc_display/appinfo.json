@@ -1,0 +1,19 @@
+{
+  "uuid": "a90b9fbd-6a85-4f23-ac9d-ab989f5ea596",
+  "shortName": "acc_display",
+  "longName": "acc_display",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
