@@ -1,0 +1,42 @@
+[INFO    ] Enabling application logging...
+[INFO    ] I pebble.c:76 -896 392 -304
+[INFO    ] I pebble.c:76 -896 392 -280
+[INFO    ] I pebble.c:76 -896 392 -312
+[INFO    ] I ocess_manager.c:297 Heap Usage for App <pebble>: Total Size <22432B> Used <2908B> Still allocated <16B>
+[INFO    ] {'runhost client uuid' = 42cf8a81-ded8-4030-8133-0538035c8f59}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:KILLED
+[INFO    ] Installation successful
+[INFO    ] Displaying logs ... Ctrl-C to interrupt.
+[INFO    ] {'runhost client uuid' = 00000000-0000-0000-0000-000000000000}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:LAUNCHING
+[INFO    ] D pebble.c:118 Done initializing, pushed window: 0x2001a874
+[INFO    ] pebble__1.0/pebble-js-app.js:3 Hello world! - Sent from your javascript application.
+[INFO    ] I pebble.c:76 -544 -696 920
+[INFO    ] {'runhost client uuid' = ad33c701-0f73-4461-a9a3-9ac7971d725e}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:READY-RUNNING
+[INFO    ] I pebble.c:40 inbox received
+[INFO    ] I pebble.c:47 String value
+[INFO    ] I pebble.c:76 -360 -56 -104
+[INFO    ] pebble__1.0/pebble-js-app.js:18 Successfully delivered message with transactionId=173
+[INFO    ] I pebble.c:76 -672 32 -264
+[INFO    ] I pebble.c:76 -888 104 -448
+[INFO    ] I pebble.c:76 -1072 128 -544
+[INFO    ] I pebble.c:76 -1240 272 -584
+[INFO    ] I pebble.c:76 -1304 360 -896
+[INFO    ] I pebble.c:76 -1328 472 -888
+[INFO    ] I pebble.c:76 -1256 656 -752
+[INFO    ] I pebble.c:76 -952 640 -296
+[INFO    ] I pebble.c:76 -536 664 -264
+[INFO    ] I pebble.c:76 -192 552 -304
+[INFO    ] I pebble.c:76 64 432 -320
+[INFO    ] I pebble.c:76 264 272 -224
+[INFO    ] I pebble.c:76 312 0 -336
+[INFO    ] I pebble.c:76 280 -248 -424
+[INFO    ] I pebble.c:76 56 -424 -416
+[INFO    ] I pebble.c:76 -208 -400 -392
+[INFO    ] I pebble.c:76 -416 -96 -1016
+[INFO    ] I pebble.c:76 -584 248 -1144
+[INFO    ] I pebble.c:76 -824 288 -840
+[INFO    ] I pebble.c:76 -1072 304 -856
+[INFO    ] I pebble.c:76 -1152 464 -568
+[INFO    ] I pebble.c:76 -1088 528 -352
+[INFO    ] I pebble.c:76 -1016 664 -432
+[INFO    ] I pebble.c:76 -984 568 -488
+[INFO    ] I pebble.c:76 -936 400 -392

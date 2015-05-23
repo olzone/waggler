@@ -1,0 +1,46 @@
+[INFO    ] Enabling application logging...
+[INFO    ] I pebble.c:76 -104 56 -1032
+[INFO    ] I pebble.c:76 -128 16 -976
+[INFO    ] I pebble.c:76 -120 24 -896
+[INFO    ] I pebble.c:76 -144 16 -1008
+[INFO    ] I pebble.c:76 -168 32 -976
+[INFO    ] I pebble.c:76 -168 32 -1016
+[INFO    ] I pebble.c:76 -192 8 -1000
+[INFO    ] I pebble.c:76 -216 72 -960
+[INFO    ] I pebble.c:76 -192 48 -984
+[INFO    ] I pebble.c:76 -184 48 -1008
+[INFO    ] I pebble.c:76 -208 40 -992
+[INFO    ] I pebble.c:76 -232 56 -968
+[INFO    ] I pebble.c:76 -256 72 -984
+[INFO    ] I pebble.c:76 -264 56 -1016
+[INFO    ] I pebble.c:76 -256 32 -984
+[INFO    ] I pebble.c:76 -240 0 -1000
+[INFO    ] I pebble.c:76 -224 32 -1000
+[INFO    ] I pebble.c:76 -184 16 -1024
+[INFO    ] I ocess_manager.c:297 Heap Usage for App <pebble>: Total Size <22432B> Used <2908B> Still allocated <16B>
+[INFO    ] {'runhost client uuid' = 9fe30370-c416-4ab3-a044-8f3405487a75}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:KILLED
+[INFO    ] Installation successful
+[INFO    ] {'runhost client uuid' = 00000000-0000-0000-0000-000000000000}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:LAUNCHING
+[INFO    ] D pebble.c:118 Done initializing, pushed window: 0x2001a874
+[INFO    ] I pebble.c:76 -128 16 -976
+[INFO    ] I pebble.c:76 1144 3184 -2064
+[INFO    ] I pebble.c:76 48 1512 -848
+[INFO    ] pebble__1.0/pebble-js-app.js:3 Hello world! - Sent from your javascript application.
+[INFO    ] {'runhost client uuid' = 2b749c87-27a3-4a2c-ba37-9e64c86d7149}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:READY-RUNNING
+[INFO    ] I pebble.c:40 inbox received
+[INFO    ] I pebble.c:47 String value
+[INFO    ] I pebble.c:76 -8 800 -896
+[INFO    ] pebble__1.0/pebble-js-app.js:18 Successfully delivered message with transactionId=183
+[INFO    ] I pebble.c:76 -136 504 -984
+[INFO    ] I pebble.c:76 -192 352 -960
+[INFO    ] I pebble.c:76 -224 352 -944
+[INFO    ] I pebble.c:76 -200 312 -976
+[INFO    ] I pebble.c:76 -256 320 -968
+[INFO    ] I pebble.c:76 -208 328 -920
+[INFO    ] Displaying logs ... Ctrl-C to interrupt.
+[INFO    ] I pebble.c:76 -120 552 -896
+[INFO    ] I pebble.c:76 -888 1032 -696
+[INFO    ] I pebble.c:76 -1880 -1520 -304
+[INFO    ] I pebble.c:76 -2976 -80 88
+[INFO    ] I pebble.c:76 -2440 2000 264
+[INFO    ] I pebble.c:76 -1856 2048 -352

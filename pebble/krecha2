@@ -1,0 +1,29 @@
+[INFO    ] Enabling application logging...
+[INFO    ] I pebble.c:76 -432 688 -592
+[INFO    ] I pebble.c:76 -432 696 -624
+[INFO    ] I pebble.c:76 -416 696 -600
+[INFO    ] I pebble.c:76 -424 712 -624
+[INFO    ] I ocess_manager.c:297 Heap Usage for App <pebble>: Total Size <22432B> Used <2908B> Still allocated <16B>
+[INFO    ] {'runhost client uuid' = 352eb9f4-d459-4527-ab7b-25de0c17e816}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:KILLED
+[INFO    ] Installation successful
+[INFO    ] Displaying logs ... Ctrl-C to interrupt.
+[INFO    ] {'runhost client uuid' = 00000000-0000-0000-0000-000000000000}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:LAUNCHING
+[INFO    ] D pebble.c:118 Done initializing, pushed window: 0x2001a874
+[INFO    ] pebble__1.0/pebble-js-app.js:3 Hello world! - Sent from your javascript application.
+[INFO    ] I pebble.c:76 -576 1400 -928
+[INFO    ] {'runhost client uuid' = 70810e26-fe58-48d2-9288-885b7c1e355d}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:READY-RUNNING
+[INFO    ] I pebble.c:40 inbox received
+[INFO    ] I pebble.c:47 String value
+[INFO    ] pebble__1.0/pebble-js-app.js:18 Successfully delivered message with transactionId=179
+[INFO    ] I pebble.c:76 -408 728 -376
+[INFO    ] I pebble.c:76 -192 696 -816
+[INFO    ] I pebble.c:76 -96 568 -848
+[INFO    ] I pebble.c:76 -72 504 -912
+[INFO    ] I pebble.c:76 -48 456 -944
+[INFO    ] I pebble.c:76 -32 496 -920
+[INFO    ] I pebble.c:76 -48 520 -880
+[INFO    ] I pebble.c:76 -16 504 -768
+[INFO    ] I pebble.c:76 -32 528 -896
+[INFO    ] I pebble.c:76 0 536 -856
+[INFO    ] I pebble.c:76 -32 480 -864
+[INFO    ] I pebble.c:76 -56 440 -936

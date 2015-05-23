@@ -1,0 +1,67 @@
+[INFO    ] Enabling application logging...
+[INFO    ] I pebble.c:76 -944 152 -384
+[INFO    ] I pebble.c:76 -904 120 -432
+[INFO    ] I pebble.c:76 -880 64 -448
+[INFO    ] I pebble.c:76 -888 80 -456
+[INFO    ] I pebble.c:76 -880 136 -520
+[INFO    ] I pebble.c:76 -832 120 -504
+[INFO    ] I pebble.c:76 -960 80 -384
+[INFO    ] I ocess_manager.c:297 Heap Usage for App <pebble>: Total Size <22432B> Used <2908B> Still allocated <16B>
+[INFO    ] {'runhost client uuid' = b3392c9c-e434-4820-b0aa-61d65a759a27}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:KILLED
+[INFO    ] Installation successful
+[INFO    ] Displaying logs ... Ctrl-C to interrupt.
+[INFO    ] {'runhost client uuid' = 00000000-0000-0000-0000-000000000000}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:LAUNCHING
+[INFO    ] D pebble.c:118 Done initializing, pushed window: 0x2001a874
+[INFO    ] I pebble.c:76 -1024 -2760 816
+[INFO    ] pebble__1.0/pebble-js-app.js:3 Hello world! - Sent from your javascript application.
+[INFO    ] {'runhost client uuid' = 42cf8a81-ded8-4030-8133-0538035c8f59}:{'webapp uuid' = 7ed43547-241e-4d65-a088-daf25767e65c}: ++_JS_LIFECYCLE_++:READY-RUNNING
+[INFO    ] I pebble.c:76 -1312 -1544 -328
+[INFO    ] I pebble.c:40 inbox received
+[INFO    ] I pebble.c:47 String value
+[INFO    ] pebble__1.0/pebble-js-app.js:18 Successfully delivered message with transactionId=171
+[INFO    ] I pebble.c:76 -1048 -872 -200
+[INFO    ] I pebble.c:76 -1056 -616 -336
+[INFO    ] I pebble.c:76 -1144 -272 -480
+[INFO    ] I pebble.c:76 -1184 0 -408
+[INFO    ] I pebble.c:76 -1144 120 -512
+[INFO    ] I pebble.c:76 -1128 192 -856
+[INFO    ] I pebble.c:76 -1104 248 -856
+[INFO    ] I pebble.c:76 -1016 376 -712
+[INFO    ] I pebble.c:76 -848 472 -640
+[INFO    ] I pebble.c:76 -640 608 -680
+[INFO    ] I pebble.c:76 -424 664 -600
+[INFO    ] I pebble.c:76 -192 648 -736
+[INFO    ] I pebble.c:76 -8 600 -632
+[INFO    ] I pebble.c:76 192 480 -472
+[INFO    ] I pebble.c:76 368 360 -384
+[INFO    ] I pebble.c:76 504 336 -256
+[INFO    ] I pebble.c:76 624 208 -336
+[INFO    ] I pebble.c:76 688 8 -208
+[INFO    ] I pebble.c:76 760 -32 -176
+[INFO    ] I pebble.c:76 792 -112 -240
+[INFO    ] I pebble.c:76 696 -120 -216
+[INFO    ] I pebble.c:76 608 -304 -152
+[INFO    ] I pebble.c:76 448 -536 -288
+[INFO    ] I pebble.c:76 264 -496 -288
+[INFO    ] I pebble.c:76 128 -448 -944
+[INFO    ] I pebble.c:76 -32 -512 -928
+[INFO    ] I pebble.c:76 -264 -256 -584
+[INFO    ] I pebble.c:76 -320 -272 -1088
+[INFO    ] I pebble.c:76 -576 -24 -880
+[INFO    ] I pebble.c:76 -672 -144 -872
+[INFO    ] I pebble.c:76 -896 296 -480
+[INFO    ] I pebble.c:76 -952 488 -880
+[INFO    ] I pebble.c:76 -920 80 -424
+[INFO    ] I pebble.c:76 -1032 112 -48
+[INFO    ] I pebble.c:76 -1272 -16 -368
+[INFO    ] I pebble.c:76 -1344 0 -304
+[INFO    ] I pebble.c:76 -1312 0 -352
+[INFO    ] I pebble.c:76 -1192 136 -408
+[INFO    ] I pebble.c:76 -984 176 -944
+[INFO    ] I pebble.c:76 -904 160 -1008
+[INFO    ] I pebble.c:76 -768 304 -832
+[INFO    ] I pebble.c:76 -552 352 -904
+[INFO    ] I pebble.c:76 -328 360 -912
+[INFO    ] I pebble.c:76 -136 360 -752
+[INFO    ] I pebble.c:76 80 408 -712
+[INFO    ] I pebble.c:76 272 312 -664
