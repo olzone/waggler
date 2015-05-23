@@ -1,0 +1,26 @@
+#left-collumn{
+	order: 1;
+	flex-grow: 1;
+	min-width:200px;
+	background: blue;
+	display: flex;
+	flex-direction: column;
+	&>div{
+		line-height: 30px;
+		text-align: center;
+		margin:0 auto;
+		background: pink;
+		width: 90%;
+	}
+	&>.gesture:nth-child(odd){
+		margin: 10px auto;
+	}
+}
+
+.gesture{
+	height: 30px;
+}
+
+#device-info{
+	height: 100px;
+}
