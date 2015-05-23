@@ -1,0 +1,12 @@
+@import 'reset';
+@import 'left-collumn';
+@import 'right-collumn';
+
+body{
+	font-size: 18px;
+	display: flex;
+	flex-wrap: nowrap;
+	&>div{
+		flex-direction: row;
+	}
+}

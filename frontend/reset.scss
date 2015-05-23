@@ -1,0 +1,13 @@
+body,div,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,
+blockquote,th,td {margin:0; padding:0;}
+table {border-spacing:0;}
+img { border:0; }
+address,caption,cite,code,dfn,th,var { font-style:normal; font-weight:normal; }
+caption,th { text-align:left; }
+abbr,acronym { border:0; }
+html {font-size: 100%;}
+a {text-decoration: none;}
+a:focus, a:active {outline: none;-moz-outline-style: none;}
+button, img, article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, post {display: block; margin:0; padding:0;}
+*:focus {outline: 0;}

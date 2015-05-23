@@ -1,0 +1,33 @@
+#left-collumn{
+	order: 1;
+	flex-grow: 1;
+	min-width:200px;
+	background: rgba(0,0,0,0.8);
+	display: flex;
+	flex-direction: column;
+	&>div{
+		line-height: 30px;
+		text-align: center;
+		margin:0 auto;
+		width: 80%;
+	}
+	&>.gesture:nth-child(odd){
+		margin: 10px auto;
+	}
+}
+
+#new{
+	border-radius: 80px;
+	background: rgb(68,127,199);
+	color:#fff;
+	border: solid 4px rgba(20, 112, 224, 0.1);
+}
+
+.gesture{
+	height: 30px;
+	padding: 6px 0;
+}
+
+#device-info{
+	height: 100px;
+}
