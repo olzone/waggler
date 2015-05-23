@@ -3,7 +3,7 @@
 	flex-grow:3;
 	min-width:600px;
 	height:600px;
-	background: red;
+	background: url(img/debut_light.png);
 	display: flex;
 	flex-direction: column;
 	&>*{
@@ -24,7 +24,7 @@
 	flex-direction: row;
 	margin-top:20px;
 	height:400px;
-	background: green;
+	background: #fff;
 	position: relative;
 	justify-content: center;
 }
@@ -32,9 +32,11 @@ $keyheight: 50px;
 .key{
 	width: 80px;
 	height:$keyheight;
-	background: cyan;
+	background:rgba(0,0,0,0.8);
+	color:#fff;
+	border: rgba(0,0,0,0.8);
 	margin:60px 40px;
-	border-radius: 2px;
+	border-radius: 4px;
 	text-align: center;
 	line-height: $keyheight;
 }

@@ -3,9 +3,9 @@
 @import 'right-collumn';
 
 body{
+	font-size: 18px;
 	display: flex;
 	flex-wrap: nowrap;
-	background: yellow;
 	&>div{
 		flex-direction: row;
 	}
