@@ -7,3 +7,4 @@ C:\Users\Jakub\Desktop\angelhack\code\Pebble\bin\Debug\Pebble.exe
 C:\Users\Jakub\Desktop\angelhack\code\Pebble\bin\Debug\Pebble.pdb
 C:\Users\Jakub\Desktop\angelhack\code\Pebble\obj\Debug\Pebble.exe
 C:\Users\Jakub\Desktop\angelhack\code\Pebble\obj\Debug\Pebble.pdb
+C:\Users\Jakub\Desktop\angelhack\code\Pebble\bin\Debug\frontend\index.html

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Net.WebSockets;
+using System.Security.Permissions;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -14,13 +15,21 @@ using System.Windows.Forms;
 
 namespace Pebble
 {
+    [PermissionSet(SecurityAction.Demand, Name = "FullTrust")]
+    [System.Runtime.InteropServices.ComVisibleAttribute(true)]
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
+
+            webBrowser.ObjectForScripting = this;
         }
 
+        public void Test(String message)
+        {
+            MessageBox.Show(message, "client code");
+        }
 
         private async void button1_Click(object sender, EventArgs e)
         {
