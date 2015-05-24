@@ -1,6 +1,6 @@
 #include <pebble.h>
-#define ACC_SAMPLES 10
-#define ACC_BATCH_SIZE 2
+#define ACC_SAMPLES 7
+#define ACC_BATCH_SIZE 1
 #define SAMPLES (ACC_SAMPLES * ACC_BATCH_SIZE)
 #define JS_READY 7
 
@@ -107,7 +107,7 @@ static void acc_handler(AccelData* data, uint32_t samples) {
     static const char* end = "END";
     static uint32_t dict_size = 0;
     static int reads = 0;
-    reads++;
+    reads += samples;
     snprintf(d_buff, sizeof(d_buff), "[%d %d %d] %d", data[0].x, data[0].y, data[0].z, reads);
     text_layer_set_text(text_layer, d_buff);
     
@@ -144,7 +144,7 @@ static void init(void) {
 
     // acc
     accel_data_service_subscribe(ACC_SAMPLES, acc_handler);
-    accel_service_set_sampling_rate(ACCEL_SAMPLING_100HZ);
+    accel_service_set_sampling_rate(ACCEL_SAMPLING_50HZ);
 
     // window
     window = window_create();
