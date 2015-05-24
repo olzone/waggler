@@ -1,6 +1,6 @@
 #include <pebble.h>
-#define ACC_SAMPLES 3
-#define ACC_BATCH_SIZE 5
+#define ACC_SAMPLES 10
+#define ACC_BATCH_SIZE 2
 #define SAMPLES (ACC_SAMPLES * ACC_BATCH_SIZE)
 #define JS_READY 7
 
@@ -144,7 +144,7 @@ static void init(void) {
 
     // acc
     accel_data_service_subscribe(ACC_SAMPLES, acc_handler);
-    accel_service_set_sampling_rate(ACCEL_SAMPLING_25HZ);
+    accel_service_set_sampling_rate(ACCEL_SAMPLING_100HZ);
 
     // window
     window = window_create();
