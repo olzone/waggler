@@ -38,6 +38,7 @@ Pebble.addEventListener('appmessage',
         //echo to 107
         //krol to 38
         ws = new WebSocket('ws://192.168.43.107:8000');
+        ws.onerror = function(err){}
     }
     
     console.log(JSON.stringify(e.payload));
