@@ -7,7 +7,7 @@
 static Window *window;
 static TextLayer *text_layer;
 static bool js_ready = false;
-static int recording = false;
+static int recording = true;
 static bool ended = false;
 
 static void select_click_handler(ClickRecognizerRef recognizer, void *context) {
